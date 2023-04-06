@@ -583,8 +583,7 @@ body {
     margin: 250px 15px;
  }
 
-@media screen and (max-width:768px) {
-
+ @media screen and (max-width:850px) {
     .pet_item p {
         font-size: 0.9rem;
     }
